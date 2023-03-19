@@ -1,0 +1,44 @@
+/* your styles go here */
+
+.icon-rounded-mini {
+  width: 2rem;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+a.footer-a {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover.footer-a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.pr-4 {
+  padding-right: 1.5rem !important;
+}
+.pr-5 {
+  padding-right: 3rem !important;
+}
+
+.pr-6 {
+  padding-right: 6rem !important;
+}
+
+.pr-7 {
+  padding-right: 8rem !important;
+}
+
+.datepicker.active {
+  display: block;
+  z-index: 1090;
+}
+
+.google-fine-print {
+  font-size: 0.65em;
+}
+
+.grecaptcha-badge {
+  visibility: hidden !important;
+}

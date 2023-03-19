@@ -1,0 +1,15 @@
+ErrorDocument 404 /404.php
+
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^/]+)$ page.php?pg_slug=$1 [L,QSA]
+RewriteRule ^post/([^/]+)$ post.php?p_slug=$1 [L,QSA]
+# RewriteRule ^myaccount/profile/([^/]+)$ profile.php=$1 [L,QSA]
+
+#RewriteRule ^page/(\d+)$ page.php?pg_id=$1 [NC,L]
+#RewriteRule ^accommodation/(\d+)$ room.php?rm_slug=$1 [NC,L]
+#RewriteRule ^activity/(\d+)$ activity.php?av_id=$1 [NC,L]

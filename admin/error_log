@@ -1,0 +1,58 @@
+[11-May-2021 04:00:07 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 04:00:07 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 04:00:07 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[11-May-2021 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php on line 33
+[11-May-2021 04:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php on line 33
+[11-May-2021 04:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/about-page.php on line 33
+[11-May-2021 04:24:25 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/profile.php on line 16
+[11-May-2021 05:38:54 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 05:38:54 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 06:27:10 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 06:27:10 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 06:27:10 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[11-May-2021 06:41:31 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/profile.php on line 16
+[11-May-2021 06:42:03 UTC] PHP Notice:  Undefined index: page_subtitle in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/view_all_pages.php on line 51
+[11-May-2021 06:42:03 UTC] PHP Notice:  Undefined index: page_content in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/view_all_pages.php on line 53
+[11-May-2021 06:42:03 UTC] PHP Notice:  Undefined index: page_user in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/view_all_pages.php on line 54
+[11-May-2021 06:48:35 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/profile.php on line 16
+[11-May-2021 08:36:10 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:10 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:10 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[11-May-2021 08:36:55 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:55 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:55 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[11-May-2021 08:36:57 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:57 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:36:57 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[11-May-2021 08:37:34 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:37:34 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[11-May-2021 08:37:34 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[12-May-2021 06:58:09 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 06:58:09 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 06:58:09 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[12-May-2021 08:01:00 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 08:01:00 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 08:28:01 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 08:28:42 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 08:29:47 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 08:29:56 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 08:56:30 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 08:56:57 UTC] PHP Notice:  Undefined index: user_image in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/edit_user.php on line 16
+[12-May-2021 09:07:58 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 09:07:58 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 09:07:58 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[12-May-2021 22:41:30 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 22:41:30 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[12-May-2021 22:41:30 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
+[17-May-2021 22:27:34 UTC] PHP Notice:  Undefined index: firstname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[17-May-2021 22:27:34 UTC] PHP Notice:  Undefined index: lastname in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/includes/admin_navigation.php on line 18
+[17-May-2021 22:27:34 UTC] PHP Notice:  Undefined index: username in /home/raglanwe/public_html/clients/queenstreet-backpackers/admin/index.php on line 16
