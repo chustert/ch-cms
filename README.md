@@ -1,1 +1,1 @@
-# hotera-cms
+# ch-cms
